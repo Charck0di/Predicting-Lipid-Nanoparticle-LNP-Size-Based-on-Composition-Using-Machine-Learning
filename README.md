@@ -1,7 +1,5 @@
 Predicting LNP Size via Machine Learning
-Predicting LNP Size via Machine Learning
 This project aims to predict the size of lipid nanoparticles (LNPs) based on their lipid composition using machine learning techniques. LNPs are critical in drug delivery systems, and understanding how their formulation influences size can accelerate formulation optimization and experimental design.
-
 Overview
 Input features:
 
